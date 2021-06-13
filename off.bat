@@ -1,0 +1,1 @@
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" controlvm "Ubuntu 20.04" poweroff
